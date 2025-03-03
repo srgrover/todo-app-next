@@ -3,7 +3,7 @@ Pasos para levantar la app en desarrollo
 
 1. Levantar la base de datos
 ```
-docker componse up -d
+docker compose up -d
 ```
 
 2. Crear una copia del .env.template y renombrarlo a .env
